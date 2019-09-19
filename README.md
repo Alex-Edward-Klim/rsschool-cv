@@ -1,1 +1,1 @@
-https://github.com/Alex-Edward-Klim/rsschool-cv/cv
+https://Alex-Edward-Klim.github.io/rsschool-cv/cv
